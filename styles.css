@@ -266,8 +266,8 @@ input::placeholder {
 
 .shape-right {
   background: hsl(215, 10%, 94%);
-  right: -9rem;
-  bottom: -2rem;
+  right: -14rem;
+  bottom: 6rem;
   height: 500px;
   width: 500px;
   position: fixed;
